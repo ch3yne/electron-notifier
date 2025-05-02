@@ -1,6 +1,6 @@
 {
   "name": "@ch3yne/electron-notifier",
-  "version": "0.8.1",
+  "version": "0.8.2",
   "description": "A node module for sending notifications in electron applications",
   "main": "index.js",
   "scripts": {
