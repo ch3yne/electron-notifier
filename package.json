@@ -1,6 +1,6 @@
 {
   "name": "@ch3yne/electron-notifier",
-  "version": "0.8.3",
+  "version": "1.0.0",
   "description": "A node module for sending notifications in electron applications",
   "main": "index.js",
   "scripts": {
@@ -23,9 +23,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/NSFI/electron-notifications-win.git"
+    "url": "git+ssh://git@github.com/ch3yne/electron-notifier.git"
   },
-  "author": "netease/NSFI",
+  "author": "ch3yne",
   "license": "MIT",
   "standard": {
     "globals": [
